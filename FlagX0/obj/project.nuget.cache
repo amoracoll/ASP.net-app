@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fTvfuUR9nuRoMRZJeWLRYR94Py9gDgksk3HVntal7RRzU+6TtAKwBmLA/lkWvvYuvK/hNu4MpEWai0h0jw6kjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arnau.mora_modelical\\source\\repos\\asdasdas\\FlagX0.Web_Repositorio\\FlagX0\\FlagX0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arnau.mora_modelical\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
